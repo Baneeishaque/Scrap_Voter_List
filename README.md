@@ -36,5 +36,5 @@ StackTrace : Pipenv Virtual Environment
 Todo : Automation of captcha challenge***
 
 ----------
-**NB : Pipenv based developemnt is encouraged, however requirements.txt is also available.  
+**Pipenv based developemnt is encouraged, however requirements.txt is also available.  
 if you prefer Anaconda Distribution - A conda environment file is also available.**
