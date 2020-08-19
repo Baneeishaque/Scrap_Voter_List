@@ -1,6 +1,7 @@
 ## Scrap Voter List ##
 
-***Not Working Yet, Error : `selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div/div[2]/div/form/div[1]/div[1]/select"}
+***Not Working Yet.
+Error : `selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div/div[2]/div/form/div[1]/div[1]/select"}
 `***
 
 StackTrace : Conda Base Environment
@@ -34,4 +35,5 @@ StackTrace : Pipenv Virtual Environment
 ***Not Completed Yet, Todo : Automation of captcha challenge***
 
 ----------
-**Note : Pipenv based developemnt is encouraged, however requirements.txt is also available - if you prefer that way. A conda environment file is also available.**
+**NB : Pipenv based developemnt is encouraged, however requirements.txt is also available.
+if you prefer Anaconda Distribution - A conda environment file is also available.**
