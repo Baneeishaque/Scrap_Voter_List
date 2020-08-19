@@ -1,0 +1,6 @@
+name: scrap_web
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - selenium
