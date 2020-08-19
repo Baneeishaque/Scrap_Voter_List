@@ -1,10 +1,10 @@
 ## Scrap Voter List ##
 
-***Not Working Yet.
+***Not Working Yet.  
 Error : `selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div/div[2]/div/form/div[1]/div[1]/select"}
 `***
 
-StackTrace : Conda Base Environment
+StackTrace : Conda Base Environment  
 `Traceback (most recent call last):
   File "main.py", line 17, in <module>
     district_selector = driver.find_element_by_xpath('/html/body/div[4]/div/div[2]/div/form/div[1]/div[1]/select')
@@ -19,7 +19,7 @@ StackTrace : Conda Base Environment
 selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div/div[2]/div/form/div[1]/div[1]/select"}
   (Session info: chrome=84.0.4147.125)`
 
-StackTrace : Pipenv Virtual Environment
+StackTrace : Pipenv Virtual Environment  
 `Traceback (most recent call last):
   File "main.py", line 17, in <module>
     district_selector = driver.find_element_by_xpath('/html/body/div[4]/div/div[2]/div/form/div[1]/div[1]/select')
